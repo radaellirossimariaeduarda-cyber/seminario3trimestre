@@ -1,5 +1,5 @@
-# seminario3trimestre
-Projeto prático do seminário de WEB 1 sobre Svelte e SvelteKit Realizado pelas alunas Maria Eduarda Radaelli Rossi e Luísa Giacomelli WWesterlund.
+# Seminário 3º Trimestre — Svelte e SvelteKit
+
 ## Sobre o projeto
 
 Este projeto foi desenvolvido como parte do seminário de WEB 1 do terceiro trimestre, com o objetivo de demonstrar na prática os principais recursos e funcionalidades do ecossistema Svelte e SvelteKit.
