@@ -1,7 +1,6 @@
 # seminario3trimestre
-Projeto prático do seminário de WEB 1 sobre Svelte e SvelteKit Realizado pelas alunas Maria Eduarda Radaelli Rossi e Luísa Giacomelli WWesterlund
-
-<h2 style="color:#8B5CF6;"> Sobre o projeto
+Projeto prático do seminário de WEB 1 sobre Svelte e SvelteKit Realizado pelas alunas Maria Eduarda Radaelli Rossi e Luísa Giacomelli WWesterlund.
+## Sobre o projeto
 
 Este projeto foi desenvolvido como parte do seminário de WEB 1 do terceiro trimestre, com o objetivo de demonstrar na prática os principais recursos e funcionalidades do ecossistema Svelte e SvelteKit.
 
@@ -9,7 +8,7 @@ A aplicação consiste em uma lista de tarefas (To-do List), permitindo que o us
 
 O projeto demonstra conceitos fundamentais do desenvolvimento de aplicações web modernas, como componentização, propriedades, reatividade, roteamento e carregamento de dados.
 
-<h2 style="color:#8B5CF6;">Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Svelte 5:** criação de componentes e gerenciamento de reatividade.
 - **SvelteKit:** estruturação das páginas, roteamento e carregamento de dados.
@@ -18,7 +17,7 @@ O projeto demonstra conceitos fundamentais do desenvolvimento de aplicações we
 - **CSS:** estilização e responsividade.
 - **Vite:** ferramenta utilizada no ambiente de desenvolvimento e compilação.
 
-<h2 style="color:#8B5CF6;">  Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 seminario3trimestre/
@@ -39,7 +38,7 @@ seminario3trimestre/
 └── README.md
 ```
 
-<h2 style="color:#8B5CF6;">  Funcionalidades
+## Funcionalidades
 
 A aplicação possui as seguintes funcionalidades:
 
@@ -50,7 +49,7 @@ A aplicação possui as seguintes funcionalidades:
 - Contabilização automática das tarefas concluídas.
 - Navegação entre a página principal e a página sobre o projeto.
 
-<h2 style="color:#8B5CF6;">  Conceitos demonstrados
+## Conceitos demonstrados
 
 ### 1. Componentização
 
@@ -87,7 +86,7 @@ O SvelteKit utiliza a organização de arquivos e pastas para definir as rotas d
 
 Utilizamos CSS para organizar os elementos, definir cores, espaçamentos e adaptar a interface a diferentes tamanhos de tela.
 
-<h2 style="color:#8B5CF6;"> Como executar o projeto
+## Como executar o projeto
 
 ### Pré-requisitos
 
@@ -121,7 +120,7 @@ O endereço local será informado pelo terminal, geralmente:
 http://localhost:5173
 ```
 
-<h2 style="color:#8B5CF6;"> Compilação para produção
+## Compilação para produção
 
 Para gerar a versão de produção da aplicação, execute:
 
@@ -135,7 +134,7 @@ Para visualizar a versão compilada, utilize:
 npm run preview
 ```
 
-<h2 style="color:#8B5CF6;"> Limitações do projeto
+## Limitações do projeto
 
 Esta aplicação possui finalidade didática e demonstra os principais recursos do Svelte e SvelteKit.
 
@@ -143,13 +142,13 @@ As tarefas são armazenadas apenas no estado da aplicação, não existindo inte
 
 Dessa forma, as alterações realizadas pelo usuário não são preservadas após o recarregamento da página.
 
-<h2 style="color:#8B5CF6;"> Finalidade acadêmica
+## Finalidade acadêmica
 
 O projeto faz parte de um seminário sobre o framework Svelte e o meta-framework SvelteKit, apresentando seus conceitos, arquitetura, gerenciamento de estado, componentização e sistema de roteamento.
 
 A demonstração prática busca evidenciar como essas tecnologias podem ser utilizadas na construção de aplicações web organizadas, reativas e reutilizáveis.
 
-<h2 style="color:#8B5CF6;">  Referências
+## Referências
 
 - SVELTE. Documentação oficial. Disponível em: https://svelte.dev/docs/svelte/overview
 - SVELTE. Svelte 5 Migration Guide. Disponível em: https://svelte.dev/docs/svelte/v5-migration-guide
